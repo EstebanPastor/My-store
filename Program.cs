@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using My_Store.Context;
+using My_Store.Repositories;
+using My_Store.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+
+builder.Services.AddScoped(typeof(GenericRepository<>));
+builder.Services.AddScoped<CategoryService>();
 
 var app = builder.Build();
 

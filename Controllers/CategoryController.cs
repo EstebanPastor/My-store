@@ -1,13 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using My_Store.Context;
+using My_Store.Services;
 
 namespace My_Store.Controllers
 {
-    public class CategoryController(AppDbContext _dbContext) : Controller
+    public class CategoryController(CategoryService _categoryService) : Controller
     {
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-           var categories = _dbContext.Category.ToList();
+            var categories = await _categoryService.GetAllAsync();
 
             return View(categories);
         }
