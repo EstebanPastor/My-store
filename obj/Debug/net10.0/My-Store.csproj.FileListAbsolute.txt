@@ -279,3 +279,13 @@ C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compre
 C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compressed\usaprizkxq-{0}-4abcade5u8-4abcade5u8.gz
 C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compressed\ybpkfngzlo-{0}-huwngg65ec-huwngg65ec.gz
 C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compressed\80qaiz6e9m-{0}-22n2g2hpag-22n2g2hpag.gz
+C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compressed\un90s68u2b-{0}-rhis9e1h15-rhis9e1h15.gz
+C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compressed\w38my8l5l1-{0}-3f1uyff8g8-3f1uyff8g8.gz
+C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compressed\uwq5x3hvza-{0}-2ipw1uql29-2ipw1uql29.gz
+C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compressed\cacibkxg63-{0}-fekobtf1nj-fekobtf1nj.gz
+C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compressed\rpyhbvc7d6-{0}-w5ukeb4zk2-w5ukeb4zk2.gz
+C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compressed\mitfx34l92-{0}-reyzbs6nvl-reyzbs6nvl.gz
+C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compressed\w1s4pce0p2-{0}-7vnfh0h1l3-7vnfh0h1l3.gz
+C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compressed\fqkqj2vs98-{0}-snf40drnz1-snf40drnz1.gz
+C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compressed\r9u5916azf-{0}-ta7tjlnrp9-ta7tjlnrp9.gz
+C:\Users\diamo\Desktop\Stuff\Projects\My-Store\My-Store\obj\Debug\net10.0\compressed\5vu1b68aak-{0}-4kk0thh1sk-4kk0thh1sk.gz

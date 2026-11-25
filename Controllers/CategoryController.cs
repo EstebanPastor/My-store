@@ -43,5 +43,11 @@ namespace My_Store.Controllers
 
             return View(entityVM);
         }
+
+        public async Task<IActionResult> Delete(int id)
+        {
+            await _categoryService.DeleteAsync(id);
+            return RedirectToAction("Index");
+        }
     }
 }
